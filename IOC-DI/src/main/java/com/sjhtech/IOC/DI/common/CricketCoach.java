@@ -1,4 +1,4 @@
-package com.sjhtech.IOC.DI;
+package com.sjhtech.IOC.DI.common;
 
 import org.springframework.stereotype.Component;
 
